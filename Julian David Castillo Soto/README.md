@@ -1,13 +1,13 @@
-#Hola mi nombre es Julian
+# Hola mi nombre es Julian
 
 tengo 21 años, Estudiante del programa de ingeniería de sistemas, Graduado de educación media en el Gimnasio el lago. Fanatico del futbol y del Freestyle, tengo interes en aprender nuevas cosas en mi vida, para asi construir mi proyecto. Demuestro la importancia de un esfuerzo previo para lograr un objetivo, tengo mente de soñador.
 
 
-##frase favorita
->**“Sólo una cosa vuelve un sueño imposible: el miedo a fracasar” Paulo Coelho, escritor.**
+## frase favorita
+> *“Sólo una cosa vuelve un sueño imposible: el miedo a fracasar” Paulo Coelho, escritor.*
 
 
-*Hincha de atletico nacional*
+**Hincha de atletico nacional**
 
 ![](https://caracol.com.co/radio/2021/07/28/deportes/1627424761_879154.html)
 
@@ -15,26 +15,26 @@ tengo 21 años, Estudiante del programa de ingeniería de sistemas, Graduado de 
 
 
 
-##Linkedin
+## Linkedin
 
-[Julian Castillo](https://www.linkedin.com/in/julian-castillo-118856216/)
-
-
+[Julian Castillo](https://futbolete.com/wp-content/uploads/2020/07/Atl%C3%A9tico-Nacional-Copa-Libertadores-2016-campe%C3%B3n.jpg)
 
 
-*Lenguajes usados
+
+
+* Lenguajes usados
 	- Java
 	- Phyton
 	- JavaScript
 
 
-*Paises que quisiera conocer
+* Paises que quisiera conocer
 	1. Noruega
 	2. Alemania
 	3. Corea del sur
 
 
-##Algoritmo favorito
+## Algoritmo favorito, Algoritmo de Dijkstra
 
 ###Pseudocodigo
 
