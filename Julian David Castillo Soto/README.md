@@ -9,7 +9,8 @@ tengo 21 años, Estudiante del programa de ingeniería de sistemas, Graduado de 
 
 **Hincha de atletico nacional**
 
-![](https://caracol.com.co/radio/2021/07/28/deportes/1627424761_879154.html)
+
+![](https://futbolete.com/wp-content/uploads/2020/07/Atl%C3%A9tico-Nacional-Copa-Libertadores-2016-campe%C3%B3n.jpg)
 
 
 
@@ -17,7 +18,7 @@ tengo 21 años, Estudiante del programa de ingeniería de sistemas, Graduado de 
 
 ## Linkedin
 
-[Julian Castillo](https://futbolete.com/wp-content/uploads/2020/07/Atl%C3%A9tico-Nacional-Copa-Libertadores-2016-campe%C3%B3n.jpg)
+[Julian Castillo](https://www.linkedin.com/in/julian-castillo-118856216/)
 
 
 
@@ -36,7 +37,7 @@ tengo 21 años, Estudiante del programa de ingeniería de sistemas, Graduado de 
 
 ## Algoritmo favorito, Algoritmo de Dijkstra
 
-###Pseudocodigo
+### Pseudocodigo
 
 ```
 
