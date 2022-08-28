@@ -58,3 +58,10 @@ tengo 21 años, Estudiante del programa de ingeniería de sistemas, Graduado de 
                        padre[v] = u
                        adicionar(cola,(v, distancia[v]))
 ```
+
+
+![](1git.png)
+
+
+![](2git.png)
+
